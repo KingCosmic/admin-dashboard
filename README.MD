@@ -1,0 +1,1 @@
+This is an admin dashboard ui prototype with a working backend for producing the data using the MERN Stack.
